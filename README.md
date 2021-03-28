@@ -1,0 +1,2 @@
+# YZBlog
+A Hexo blog
