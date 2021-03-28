@@ -1,2 +1,2 @@
 # YZBlog
-A Hexo blog
+这是博客的未构建版本
