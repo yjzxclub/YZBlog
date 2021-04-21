@@ -6,6 +6,7 @@ tags:
   - 趣闻杂谈
 date: 2021-04-12 21:20:00
 author: GCVillager
+copyright: false
 ---
 
 ## 前言  
@@ -40,3 +41,7 @@ author: GCVillager
 ## 最后  
 floatingblocks回家，注册了一个，因为家里网络环境没那么阴间，很快就完成了。  
 **从那之后，我就非常痛恨骰子。看到骰子就想吐。**
+
+> 原作者: GCVillager  
+> 原文链接: <https://gcvillager.github.io/posts/count-the-dice/>  
+> 此文章按照 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) 协议发布，转载请注明出处。  
