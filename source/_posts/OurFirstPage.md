@@ -1,14 +1,11 @@
 ---
 title: 我们的第一个页面
 date: 2021-03-28 13:19:45
-author: BlockFl
 tags:
 - 测试
 categories:
 - 计算机社
 ---
-
-作者：BlockFl 。
 
 ## 测试标题1
 
