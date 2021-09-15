@@ -85,7 +85,7 @@ HTML里有一个重要的概念——标签(tag)。一对标签可以为一段�
 由于GCVillager是伍六七的忠实粉丝，所以这里放一张伍六七的图。  
 
 ```HTML
-<img src="https://yjzx-site.github.io/img/sissor-seven-picture.png" alt=一张伍六七的图片 width="960px" height=540px>
+<img src="https://yjzx-site.github.io/img/scissor-seven-picture.jpg" alt=一张伍六七的图片 width="960px" height=540px>
 ```
 
 效果大概是这样：（不过图片大小没改，不要在意）  
