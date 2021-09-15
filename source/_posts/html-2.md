@@ -85,12 +85,12 @@ HTML里有一个重要的概念——标签(tag)。一对标签可以为一段�
 由于GCVillager是伍六七的忠实粉丝，所以这里放一张伍六七的图。  
 
 ```HTML
-<img src="https://yjzx-site.github.io/img/demonstration-picture-sissor-seven.png" alt=一张伍六七的图片 width="960px" height=540px>
+<img src="https://yjzx-site.github.io/img/sissor-seven-picture.png" alt=一张伍六七的图片 width="960px" height=540px>
 ```
 
 效果大概是这样：（不过图片大小没改，不要在意）  
 
->![一张伍六七的图片](https://cdn.jsdelivr.net/gh/yjzx-site/yjzx-site.github.io/img/club-file/demonstration-picture-scissor-seven.jpg)
+>![一张伍六七的图片](https://cdn.jsdelivr.net/gh/yjzx-site/yjzx-site.github.io/img/club-file/scissor-seven-picture.jpg)
 
 我们暂时不深究`<img>`元素，等会再讲。这里就了解一下元素属性。可以看出，`<img>`标签有src、alt、width、height等属性，属性的属性值（也就是等号后面跟的东西）可以是字符串，也可以是数字，或者是带单位的数字（960px代表960像素）。不包含空格（以及 " ' \` = < > 字符）的简单属性值可以不使用引号，但是建议将所有属性值用引号括起来，这样的代码一致性更佳，更易于阅读。各个属性之间用空格分隔。  
 
