@@ -7,8 +7,9 @@ tags:
   - HTML
   - 速查表
 date: 2021-09-08 13:15:11
-author:
-cover:
+author: MDN
+cover: https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element
+copyright: false
 ---
 
 此页面列出了所有使用[标签](https://developer.mozilla.org/zh-CN/docs/Glossary/Tag)创建的 [HTML](https://developer.mozilla.org/zh-CN/docs/Glossary/HTML) [元素](https://developer.mozilla.org/zh-CN/docs/Glossary/Element)。它们已被按照功能进行分组，以便您更轻松地找到想要的内容。同时，侧边栏中也按照字母排序列出了所有元素。
@@ -252,3 +253,8 @@ Web 组件是一种与 HTML 相关联（HTML-related）的技术，简单来说�
 | [`<strike>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/strike) | **HTML `<strike>` 元素**（或者 HTML 删除线元素）在文本上放置删除线。 |
 | [`<tt>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/tt) | **HTML 电报文本元素** \(`<tt>`\) 产生一个内联元素，使用浏览器内置的 monotype 字体展示。这个元素用于给文本排版，使其等宽展示，就像电报那样。使用 `code` 元素来展示等宽文本可能更加普遍。 |
 | [`<xmp>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/xmp) | `<xmp>` 标签之间的内容不会被当作文档内容解析，而会被用等宽字体直接呈现。HTML2 规范建议，本标签中的内容应该具有足够容纳每行80个字母的宽度。 |
+
+
+> 原作者: Mozilla Web Developer Documentation   
+> 原文链接: <https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element>  
+> 原文按照 [CC-BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) 协议发布，转载请注明出处。  

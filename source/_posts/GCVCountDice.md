@@ -44,4 +44,4 @@ copyright: false
 
 > 原作者: GCVillager  
 > 原文链接: <https://gcvillager.github.io/posts/count-the-dice/>  
-> 此文章按照 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) 协议发布，转载请注明出处。  
+> 此文章按照 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议发布，转载请注明出处。  
