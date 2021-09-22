@@ -109,7 +109,7 @@ cover: https://www.luogu.com.cn/blog/Acfboy/kai-yuan-shi-shi-me-neng-chi-ma-post
 <p>如图
 <img src="https://oscimg.oschina.net/oscnet/adeef80f4b1f1d09cdc826df2801aa41f9a.png" alt=""></p>
 <p>在开源许可证中，用下面的方式写版权是非常好的：版权属于<span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>×</mo><mo>×</mo><mo>×</mo></mrow><annotation encoding="application/x-tex">\times \times \times</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.66666em; vertical-align: -0.08333em;"></span><span class="mord">×</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.66666em; vertical-align: -0.08333em;"></span><span class="mord">×</span></span></span></span></span>和所有贡献者
-<img src="http://5b0988e595225.cdn.sohucs.com/images/20200512/20408a1f6047475b99b4eca0e546367f.jpeg" alt=""></p>
+<img src="https://5b0988e595225.cdn.sohucs.com/images/20200512/20408a1f6047475b99b4eca0e546367f.jpeg" alt=""></p>
 <p>作为使用者，您应该说明引用了哪些其它开源项目，谷歌的浏览器在这一点是一个典范。</p>
 <p><img src="https://oscimg.oschina.net/oscnet/eb01d85e208f7934457d71b078d72329244.png" alt=""></p>
 <p><img src="https://oscimg.oschina.net/oscnet/7ef84fdce6cc84823ed88e69a3d137640d1.png" alt=""></p>
