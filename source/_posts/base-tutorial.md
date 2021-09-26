@@ -2,11 +2,12 @@
 title: 基础教程
 categories:
   - [教程, 基础教程]
+  - [计算机社, GCVillager]
 tags:
   - 教程
   - 基础教程
 date: 2021-09-08 13:15:10
-author:
+author: GCVillager
 cover:
 ---
 

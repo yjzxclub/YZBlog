@@ -2,6 +2,7 @@
 title: HTML：1——认识HTML
 categories:
   - [教程, HTML]
+  - [计算机社, GCVillager]
 tags:
   - 教程
   - HTML

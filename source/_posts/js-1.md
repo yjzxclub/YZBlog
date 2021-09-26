@@ -2,12 +2,13 @@
 title: Javascript —— 第一步
 categories:
   - [教程, Javascript]
+  - [计算机社, 尼泽·莫德斯]
 tags:
   - 教程
   - Javascript
 date: 2021-09-26 16:15:53
-author:
-cover:
+author: 尼泽·莫德斯
+cover: 
 ---
 
 本文按照 Mozilla 贡献者基于 CC-BY-SA 2.5 协议发布的以下文章改编:

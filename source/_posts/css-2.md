@@ -2,11 +2,12 @@
 title: CSS 开始
 categories:
   - [教程, CSS]
+  - [计算机社, 尼泽·莫德斯]
 tags:
   - 教程
   - CSS
 date: 2021-09-15 13:26:30
-author:
+author: 尼泽·莫德斯
 cover:
 ---
 
@@ -137,7 +138,7 @@ li em {
 但是这里会对 li 里面的所有 `<em>` 起作用，这包括下面的例子：
 
 ``` html
-<li>LALALA<span>LALAL<em>LSA</em>JFOIU<span>AWJFLIKAHSOIDafs </li>
+<li>LALALA<span>LALAL<em>LSA</em>JFOIU</span>AWJFLIKAHSOIDafs </li>
 ```
 
 如果你想要根据严格的父子关系来选择，可以采用**子代选择器**，这个符号是一个 `>`，写出来的选择器就是 `li > em`。这样就不会选出套在 `<span>` 里面的 `<em>` 了。

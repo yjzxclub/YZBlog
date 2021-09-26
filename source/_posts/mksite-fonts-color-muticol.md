@@ -2,11 +2,12 @@
 title: CSS 进阶——字体 颜色 多列布局
 categories:
   - [教程, CSS进阶]
+  - [计算机社, 尼泽·莫德斯]
 tags:
   - 教程
   - CSS进阶
 date: 2021-09-16 20:11:04
-author:
+author: 尼泽·莫德斯
 cover:
 ---
 
@@ -59,7 +60,7 @@ p {
 
 | 字体名称 |	泛型	| 注意 |
 | --- | --- | --- |
-| Arial	|sans-serif |	通常认为最佳做法还是添加 Helvetica 作为 Arial 的首选替代品，尽管它们的字体面几乎相同，但 Helvetica 被认为具有更好的形状，即使Arial更广泛地可用。|
+| Arial	| sans-serif |	通常认为最佳做法还是添加 Helvetica 作为 Arial 的首选替代品，尽管它们的字体面几乎相同，但 Helvetica 被认为具有更好的形状，即使Arial更广泛地可用。|
 | Courier New |	monospace |	某些操作系统有一个 Courier New 字体的替代（可能较旧的）版本叫Courier。使用Courier New作为Courier的首选替代方案，被认为是最佳做法。
 | Georgia |	serif | |
 |Times New Roman |	serif |	某些操作系统有一个 Times New Roman 字体的替代（可能较旧的）版本叫 Times。使用Times作为Times New Roman的首选替代方案，被认为是最佳做法。 |
