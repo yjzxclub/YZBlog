@@ -2,12 +2,12 @@
 title: CSS 进阶——布局
 categories:
   - [教程, CSS进阶]
-  - [计算机社, 尼泽·莫德斯]
+  - [计算机社, 尼泽·莫伯斯]
 tags:
   - 教程
   - CSS进阶
 date: 2021-09-16 19:12:19
-author: 尼泽·莫德斯
+author: 尼泽·莫伯斯
 cover:
 ---
 

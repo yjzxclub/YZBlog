@@ -2,12 +2,12 @@
 title: Markdown 教程
 categories:
   - [教程, Markdown]
-  - [计算机社, 尼泽·莫德斯]
+  - [计算机社, 尼泽·莫伯斯]
 tags:
   - 教程
   - Markdown
 date: 2021-09-06 13:15:09
-author: 尼泽·莫德斯
+author: 尼泽·莫伯斯
 cover:
 ---
 

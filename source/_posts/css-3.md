@@ -2,12 +2,12 @@
 title: 进一步的 CSS
 categories:
   - [教程, CSS]
-  - [计算机社, 尼泽·莫德斯]
+  - [计算机社, 尼泽·莫伯斯]
 tags:
   - 教程
   - CSS
 date: 2021-09-15 13:26:33
-author: 尼泽·莫德斯
+author: 尼泽·莫伯斯
 cover:
 ---
 
