@@ -76,7 +76,7 @@ Hello world!
 
 ## 导入你的 JS
 
-一般情况下面，我们会在 HTML 里面链接 JS（你总没有见过啥网站要你打开控制台输入代码的吧）。我们使用 `<script></script>` 标签来在 HTML 的 `<head>` 当中插入 JS 。下面是一些方式：
+一般情况下面，我们会在 HTML 里面链接 JS（你总没有见过啥网站要你打开控制台输入代码的吧）。我们使用 `<script></script>` 标签来在 HTML 的 `<body>` 当中最末尾的地方插入 JS ，这是因为 HTML 是从上到下解析的，如果需要操作的东西排在 JS 后面，就不能被正常解析。下面是一些方式：
 
 ``` html
 <!DOCTYPE html>
@@ -84,6 +84,8 @@ Hello world!
   <head>
     <meta charset="UTF-8">
     <title>JS Example</title>
+  </head>
+  <body>
     <!-- 内部 JS -->
     <script>
         console.log("Hello, I am a JS CODE!");
@@ -95,8 +97,6 @@ Hello world!
 
     <!-- 导入其他的外链 JS -->
     <script src="http://一个脚本的 URL"></script>
-  </head>
-  <body>
   </body>
 </html>
 ```
@@ -117,11 +117,11 @@ console.log("Hello world!");
   <head>
     <meta charset="UTF-8">
     <title>JS Example</title>
-    <!-- 导入同目录下的 hello.js -->
-    <script src="hello.js"></script>
   </head>
   <body>
     <p>js...</p>
+    <!-- 导入同目录下的 hello.js -->
+    <script src="hello.js"></script>
   </body>
 </html>
 ```
