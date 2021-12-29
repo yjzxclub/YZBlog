@@ -32,7 +32,7 @@ cover:
 
 好的，大概就到这里。现在我说下这个活动的安排：我们要通过这次活动，选出来两个优秀社员。下面算是通过:
 
-- 完成 Must do 所有 Basic
+- 完成 Must do ，和所有 Basic
 - 完成 Must do ，两个 Basic 和一个 Medium
 - 单个 Extend
 
