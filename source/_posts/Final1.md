@@ -32,19 +32,24 @@ cover:
 
 好的，大概就到这里。现在我说下这个活动的安排：我们要通过这次活动，选出来两个优秀社员。下面算是通过:
 
-- 完成所有 Basic
-- 两个 Basic 和一个 Medium
+- 完成 Must do 所有 Basic
+- 完成 Must do ，两个 Basic 和一个 Medium
 - 单个 Extend
 
 至于 VERY HARD 里面的，做出来一个下一任社长就是你了！
 
 ## Contests
 
+### Must do
+
+给下面两个仓库点 Star （目的是为了看是否有 Github 帐号，当然也有你懂得原因）：
+
+- <https://github.com/floatingblocks/float-site-manager>
+- <https://github.com/floatingblocks/float-site-manager-npm>
+
 ### Basic
 
-给指定的 Github 仓库提一个 Issue。
-
-(等待 GCV 添加详细说明)
+给指定的 Github 仓库提一个 Issue。暂定 <https://github.com/yjzx-site/yjzx-site-source>。
 
 在 Github 新建一个仓库，使用 Git 上传一些文件。要求本地用 Git，而不是在 Github 网页上传。（这个用 commit 可以查的）
 
