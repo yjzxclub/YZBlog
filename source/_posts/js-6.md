@@ -366,7 +366,7 @@ My name is Steve
 My name is Steve
 ```
 
-可以看到最后那个函数并没有指向正确的对象，导致输出了错误的值。
+可以看到最后那个函数并没有指向正确的对象，导致输出了错误的值。对象之间的继承是一件很复杂的事情。事实上最常用的是构造器函数。推荐阅读 <https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects> 当中列出的文章。
 
 ## 大家都是函数
 
