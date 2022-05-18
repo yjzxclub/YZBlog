@@ -60,15 +60,25 @@ mp*.txt 里面的内容是一个 N*M 的矩阵(N <= 20, M <= 20) (也就是最�
 
 ![preview](preview.png)
 
+## 样例
+
+这是用于测试的地图文件
+
+[map.zip](map.zip)
+
 ## 帮助与提示
 
 ### 帮助
 
 解析 zip 包需要用到一个叫做 zip.js 的库。鉴于对上传文件的解析操作过度复杂，而且也不属于前端基本功，我决定自己写好这一个函数，把 input 的 event 里面那个文件的引用传给这个函数，函数就可以把解析好的地图放进一个对象返回回去。这样可以方便大家开发。
 
-(还在写，参数列表和返回值先定好)
+一个用于参考的例子，示范了如何导入这个库并且使用，下载链接如下：
 
-这是个 async 函数，需要加上 await 调用。
+[下载](resolve.zip)
+
+这是一个在线的页面，是上面的例子部署到 Github pages 上面 <https://yjzx-site.github.io/zipExample/>。选中自己的地图 zip，就可以看到材质和地图显示出来了。
+
+这是个 async 函数，声明如下。需要加上 await 调用。
 
 ```js
 /**
@@ -86,7 +96,7 @@ mp*.txt 里面的内容是一个 N*M 的矩阵(N <= 20, M <= 20) (也就是最�
  * @param {File} zipFile 
  * @returns {ResolvedMap}
  */
-async function resolve(zipFile) {
+async function resolveFileToObject(zipFile) {
     /** waiting for further update */
 }
 ```
