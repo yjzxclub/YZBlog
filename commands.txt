@@ -1,0 +1,17 @@
+YZBlog 
+npm install
+cd themes/next
+npm install
+
+安装依赖库软件
+
+npx hexo new post <title>
+source/_posts/ 
+  <title>.md 文本
+  <title> 文件夹
+  
+npx hexo g - 生成
+npx hexo s http://127.0.0.1:4000
+ 
+npx hexo d 部署
+ 
