@@ -9,7 +9,9 @@ cover: 'https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg'
 author: 尼泽·莫伯斯
 ---
 
-这是我网课的视频，还在赶工，视频先传上来.
+这里是网课的视频合集。我会在这里慢慢更新我们的教程视频合集。
+
+如果有人邀请我讲课，我还会继续在这里放上我视频。这样方便大家学习。
 
 ## 社团介绍和 Markdown 教程
 
@@ -29,7 +31,7 @@ author: 尼泽·莫伯斯
 
 
 <video controls>
-  <source src="http://yjzxclub.github.io/a956e104263c/yjzx.mp4" type="video/mp4">
+  <source src="https://yjzxclub.github.io/a956e104263c/yjzx.mp4" type="video/mp4">
   <p>你的浏览器不支持 HTML5 视频。可点击链接观看</p>
 </video>
 
