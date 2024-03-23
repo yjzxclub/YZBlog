@@ -1,5 +1,5 @@
 ---
-title: 我们的网课视频
+title: 我们的网课
 date: 2077-7-7 17:17:17
 categories:
 - 计算机社
@@ -29,13 +29,7 @@ author: 尼泽·莫伯斯
 > 
 > 你们还可以主动报名讲课，只要准备讲稿和提前确定主题即可，这个具体细节可以给现任社长处理。
 
-
-<video controls>
-  <source src="https://yjzxclub.github.io/a956e104263c/yjzx.mp4" type="video/mp4">
-  <p>你的浏览器不支持 HTML5 视频。可点击链接观看</p>
-</video>
-
-[视频链接](/a956e104263c/yjzx.mp4)
+视频已过期
 
 ### 作业和评价
 
